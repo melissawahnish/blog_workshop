@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require froala_editor.min.js
+//= require plugins/image.min.js
 //= require turbolinks
 //= require_tree .
